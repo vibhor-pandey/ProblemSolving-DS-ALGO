@@ -1,0 +1,24 @@
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# IntelliJ project files
+.idea/
+
+# Compiled files
+*.jar
+
+# Dependency directories
+target/
+bin/
+
+# IDE files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Mac specific files
+.DS_Store
