@@ -5,7 +5,7 @@
  * Memory Usage: 41.9 MB
  *
  * Time Complexity: O(n) -> number of nodes
- * Space Complexity: O(1)
+ * Space Complexity: O(n) -> Recursion Call Stack
  */
 
 
