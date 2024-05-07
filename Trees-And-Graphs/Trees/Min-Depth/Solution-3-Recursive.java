@@ -1,3 +1,5 @@
+import common.TreeNode;
+
 /**
  * 53 / 53 test cases passed.
  * Status: Accepted
