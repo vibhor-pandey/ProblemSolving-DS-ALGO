@@ -8,6 +8,7 @@ Example 1:
 
 Input: nums = [5,19,8,1]
 Output: 3
+
 Explanation: The initial sum of nums is equal to 5 + 19 + 8 + 1 = 33.
 The following is one of the ways to reduce the sum by at least half:
 Pick the number 19 and reduce it to 9.5.
@@ -22,6 +23,7 @@ Example 2:
 
 Input: nums = [3,8,20]
 Output: 3
+
 Explanation: The initial sum of nums is equal to 3 + 8 + 20 = 31.
 The following is one of the ways to reduce the sum by at least half:
 Pick the number 20 and reduce it to 10.
